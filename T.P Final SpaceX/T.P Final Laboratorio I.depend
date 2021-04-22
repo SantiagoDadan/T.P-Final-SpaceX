@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1593044388 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\astronautas.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+
+1593037943 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\astronautas.h
+
+1491400448 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593040000 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\inicio.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<time.h>
+	"Inicio.h"
+	"menuA.h"
+	"menuN.h"
+	"menuM.h"
+
+1592763763 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\inicio.h
+
+1593046043 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Inicio.h"
+
+1593046547 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\menua.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+	"menuA.h"
+
+1592336342 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\menua.h
+
+1592513986 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\menun.h
+
+1593039130 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\menun.c
+	<stdio.h>
+	<stdlib.h>
+	"menuN.h"
+
+1593044388 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\naves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Naves.h"
+
+1592516600 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\naves.h
+
+1593030909 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\menum.h
+
+1593043682 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<string.h>
+	"Misiones.h"
+	"Astronautas.h"
+	"Naves.h"
+
+1593040000 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\misiones.h
+
+1593043581 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\menum.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Misiones.h"
+	"menuM.h"
+
+1593044388 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\astronautas.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+
+1593037943 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\astronautas.h
+
+1491400448 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593059228 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\inicio.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<time.h>
+	"Inicio.h"
+	"menuA.h"
+	"menuN.h"
+	"menuM.h"
+
+1592763763 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\inicio.h
+
+1592336342 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\menua.h
+
+1592513986 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\menun.h
+
+1593030909 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\menum.h
+
+1593046043 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Inicio.h"
+
+1593046733 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\menua.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+	"menuA.h"
+
+1593043581 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\menum.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Misiones.h"
+	"menuM.h"
+
+1593040000 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\misiones.h
+
+1593046733 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\menun.c
+	<stdio.h>
+	<stdlib.h>
+	"menuN.h"
+
+1593043682 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<string.h>
+	"Misiones.h"
+	"Astronautas.h"
+	"Naves.h"
+
+1592516600 c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\naves.h
+
+1593044388 source:c:\users\fsflo\desktop\tp lab\t.p final laboratorio i\naves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Naves.h"
+
+1491400448 source:c:\users\user\desktop\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593059228 source:c:\users\user\desktop\inicio.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<time.h>
+	"Inicio.h"
+	"menuA.h"
+	"menuN.h"
+	"menuM.h"
+
+1592763763 c:\users\user\desktop\inicio.h
+
+1592336342 c:\users\user\desktop\menua.h
+
+1592513986 c:\users\user\desktop\menun.h
+
+1593030909 c:\users\user\desktop\menum.h
+
+1593060921 source:c:\users\user\desktop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Inicio.h"
+
+1593060914 source:c:\users\user\desktop\menua.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+	"menuA.h"
+
+1593037943 c:\users\user\desktop\astronautas.h
+
+1593060921 source:c:\users\user\desktop\menum.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Misiones.h"
+	"menuM.h"
+
+1593040000 c:\users\user\desktop\misiones.h
+
+1593060921 source:c:\users\user\desktop\menun.c
+	<stdio.h>
+	<stdlib.h>
+	"menuN.h"
+
+1593087971 source:c:\users\user\desktop\t.p final spacex\astronautas.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+
+1593037943 c:\users\user\desktop\t.p final spacex\astronautas.h
+
+1491400448 source:c:\users\user\desktop\t.p final spacex\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593059228 source:c:\users\user\desktop\t.p final spacex\inicio.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+	<time.h>
+	"Inicio.h"
+	"menuA.h"
+	"menuN.h"
+	"menuM.h"
+
+1592763763 c:\users\user\desktop\t.p final spacex\inicio.h
+
+1592336342 c:\users\user\desktop\t.p final spacex\menua.h
+
+1592513986 c:\users\user\desktop\t.p final spacex\menun.h
+
+1593030909 c:\users\user\desktop\t.p final spacex\menum.h
+
+1593060921 source:c:\users\user\desktop\t.p final spacex\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Inicio.h"
+
+1593087971 source:c:\users\user\desktop\t.p final spacex\menua.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+	"menuA.h"
+
+1593087971 source:c:\users\user\desktop\t.p final spacex\menun.c
+	<stdio.h>
+	<stdlib.h>
+	"menuN.h"
+
+1593089768 source:c:\users\user\desktop\t.p final spacex\misiones.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<string.h>
+	"Misiones.h"
+	"Astronautas.h"
+	"Naves.h"
+
+1593040000 c:\users\user\desktop\t.p final spacex\misiones.h
+
+1592516600 c:\users\user\desktop\t.p final spacex\naves.h
+
+1593087971 source:c:\users\user\desktop\t.p final spacex\naves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Naves.h"
+
+1593087971 source:c:\users\user\desktop\t.p final spacex\menum.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Misiones.h"
+	"menuM.h"
+

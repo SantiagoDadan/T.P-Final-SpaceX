@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1591818939 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i.\main.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<conio.h>
+
+1491400448 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1592175569 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Inicio.h"
+
+1592172271 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\inicio.h
+
+1592186405 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\inicio.c
+	<stdio.h>
+	<stdlib.h>
+	"windows.h"
+	<time.h>
+	"Inicio.h"
+	"Astronautas.h"
+
+1592175546 c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\astronautas.h
+
+1592175552 source:c:\users\user\desktop\facu\programacion 1\t.p final laboratorio i\astronautas.c
+	<stdio.h>
+	<stdlib.h>
+	"Astronautas.h"
+

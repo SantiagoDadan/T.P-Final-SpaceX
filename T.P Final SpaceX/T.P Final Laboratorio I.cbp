@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="T.P Final Laboratorio I." />
+		<Option makefile="../T.P Final Laboratorio I/Makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/T" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/T" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../Librerias/Carga.h" />
+		<Unit filename="Astronautas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Astronautas.h" />
+		<Unit filename="Inicio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Inicio.h" />
+		<Unit filename="Misiones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Misiones.h" />
+		<Unit filename="Naves.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Naves.h" />
+		<Unit filename="gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gotoxy.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuA.h" />
+		<Unit filename="menuM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuM.h" />
+		<Unit filename="menuN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuN.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
